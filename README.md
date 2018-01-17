@@ -1,5 +1,5 @@
 ## links-of-gdg
-The links of groups about GDG.
+Links dos Grupos sobre o GDG.
 
 ## Telegran
 * GDG Divinópolis : https://t.me/joinchat/E2TKwBEJ-gwTGoIEdCwSVQ
