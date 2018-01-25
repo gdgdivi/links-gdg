@@ -1,8 +1,8 @@
 ## links-of-gdg
-Links dos Grupos sobre o GDG.
+Links dos Grupos do GDG.
 
-## Telegran
-* GDG Divinópolis : https://t.me/joinchat/E2TKwBEJ-gwTGoIEdCwSVQ
+## SLACK
+* GDG Divinópolis : https://gdgdivi.slack.com
 
 ## Meetup
  * GDG Divinópolis: https://www.meetup.com/pt-BR/GDG-Divinopolis/
